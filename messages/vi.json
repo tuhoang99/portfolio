@@ -1,0 +1,79 @@
+{
+  "navigation": {
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "experience": "Kinh nghiệm",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Hoàng Anh Tú",
+    "subtitle": "Developer với hơn 2 năm kinh nghiệm trong lĩnh vực phát triển web và mobile.",
+    "tagline": "Kiến tạo trải nghiệm số có giá trị",
+    "downloadCV": "Tải CV",
+    "contactMe": "Liên hệ",
+    "viewWork": "Xem dự án"
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "description": "Tôi là một Developer đam mê công nghệ với hơn 2 năm kinh nghiệm trong việc phát triển các ứng dụng web và mobile. Tôi yêu thích việc tạo ra những sản phẩm mang lại giá trị thực cho người dùng và luôn tìm kiếm cơ hội học hỏi và phát triển bản thân.",
+    "location": "Phường 14, Quận Tân Bình, TP.HCM",
+    "phone": "+84 967 622 351",
+    "email": "tuhoang.fpt.dev@gmail.com",
+    "website": "www.tuhoang.portfolio.surge.sh",
+    "statsTitle": "Thống kê nhanh",
+    "yearsExperience": "Năm kinh nghiệm",
+    "projectsCompleted": "Dự án hoàn thành",
+    "companiesWorked": "Công ty đã làm việc",
+    "satisfiedClients": "Khách hàng hài lòng"
+  },
+  "skills": {
+    "title": "Kỹ năng",
+    "tagline": "Công nghệ tôi sử dụng",
+    "frontend": "Frontend",
+    "frontendDesc": "Công nghệ frontend hiện đại để xây dựng giao diện người dùng linh hoạt (responsive).",
+    "backend": "Backend",
+    "backendDesc": "Backend - Công nghệ phía máy chủ và phát triển API.",
+    "database": "Database",
+    "databaseDesc": "Quản lý cơ sở dữ liệu và các giải pháp lưu trữ dữ liệu.",
+    "cloudDevops": "Cloud & DevOps",
+    "cloudDevopsDesc": "Nền tảng đám mây và các phương pháp DevOps.",
+    "skills": "Kỹ năng",
+    "totalSkills": "Tổng kỹ năng",
+    "proficiencyLevel": "Cấp độ thành thạo"
+  },
+  "projects": {
+    "title": "Dự án nổi bật",
+    "tagline": "Một số dự án gần đây của tôi",
+    "otlTitle": "OneThienLong",
+    "otlDesc": "Nền tảng hỗ trợ truyền thông nội bộ và số hóa quy trình hành chính trong công ty.",
+    "ecatalogueTitle": "Ecatalogue",
+    "ecatalogueDesc": "E-Catalogue giới thiệu các sản phẩm bút viết và văn phòng phẩm chất lượng cao, phù hợp cho nhu cầu học tập, làm việc và văn phòng hiện đại.",
+    "mmtbTitle": "Máy Móc Thiết Bị",
+    "mmtbDesc": "Nền tảng số hoá quy trình bảo trì, quản lý thiết bị và sự cố tại nhà xưởng – giúp giám sát tình trạng máy móc, giảm thời gian dừng máy và nâng cao hiệu suất vận hành.",
+    "viewProject": "Xem dự án"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc",
+    "tagline": "Hành trình làm việc của tôi",
+    "fresherDev": "Frontend Developer",
+    "techSolutions": "CÔNG TY CỔ PHẦN TẬP ĐOÀN THIÊN LONG",
+    "present": "Hiện tại",
+    "fresherDesc": "Tham gia phát triển và bảo trì các ứng dụng web - mobile, đảm bảo hiệu suất và tính năng của sản phẩm. Học hỏi và áp dụng các công nghệ mới để cải thiện quy trình phát triển. Hợp tác với các nhóm khác để đảm bảo tích hợp liền mạch giữa frontend và backend.",
+    "internDev": "Customer Success Engineer (Intern)",
+    "gcalls": "Công ty cổ phần Gcalls",
+    "internDesc": "Tìm hiểu và phân tích các yêu cầu của khách hàng, hỗ trợ kỹ thuật và giải quyết vấn đề. Hỗ trợ nhóm phát triển trong việc triển khai và bảo trì hệ thống. Học hỏi về quy trình phát triển phần mềm và quản lý dự án."
+  },
+  "contact": {
+    "title": "Liên hệ với tôi",
+    "description": "Nếu bạn có bất kỳ câu hỏi nào hoặc muốn thảo luận về một dự án, đừng ngần ngại liên hệ với tôi. Tôi luôn sẵn sàng hỗ trợ và hợp tác.",
+    "nameLabel": "Tên của bạn",
+    "emailLabel": "Email của bạn",
+    "messageLabel": "Tin nhắn của bạn",
+    "sendMessage": "Gửi tin nhắn"
+  },
+  "footer": {
+    "text": "Tất cả quyền được bảo lưu.",
+    "madeWith": "Được tạo với"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "navigation": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hoang Anh Tu",
+    "subtitle": "Developer with over 2 years of experience in web and mobile development.",
+    "tagline": "Crafting digital experiences that matter",
+    "downloadCV": "Download CV",
+    "contactMe": "Contact Me",
+    "viewWork": "View My Work"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a passionate Developer with over 2 years of experience in developing web and mobile applications. I love creating products that bring real value to users and am always looking for opportunities to learn and grow.",
+    "location": "Ho Chi Minh City, Vietnam",
+    "phone": "+84 967 622 351",
+    "email": "tuhoang.fpt.dev@gmail.com",
+    "website": "www.tuhoang.portfolio.surge.sh",
+    "statsTitle": "Quick Stats",
+    "yearsExperience": "Years Experience",
+    "projectsCompleted": "Projects Completed",
+    "companiesWorked": "Companies Worked",
+    "satisfiedClients": "Satisfied Clients"
+  },
+  "skills": {
+    "title": "Skills",
+    "tagline": "Technologies I work with",
+    "frontend": "Frontend",
+    "frontendDesc": "Modern frontend technologies for building responsive user interfaces.",
+    "backend": "Backend",
+    "backendDesc": "Backend - Server-side technologies and API development.",
+    "database": "Database",
+    "databaseDesc": "Database management and data storage solutions.",
+    "cloudDevops": "Cloud & DevOps",
+    "cloudDevopsDesc": "Cloud platforms and DevOps practices.",
+    "skills": "Skills",
+    "totalSkills": "Total Skills",
+    "proficiencyLevel": "Proficiency Level"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "tagline": "Some of my recent work",
+    "otlTitle": "OneThienLong",
+    "otlDesc": "A platform that supports internal communication and digitizes administrative processes within the company.",
+    "ecatalogueTitle": "Ecatalogue",
+    "ecatalogueDesc": "The E-Catalogue showcases high-quality writing instruments and stationery products, tailored to meet the needs of learning, work, and the modern office environment.",
+    "mmtbTitle": "May Moc Thiet Bi",
+    "mmtbDesc": "A platform that digitizes maintenance processes, equipment and incident management in factories – enabling machine condition monitoring, reducing downtime, and improving operational efficiency.",
+    "viewProject": "View Project"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "tagline": "My professional journey",
+    "fresherDev": "Frontend Developer",
+    "techSolutions": "THIEN LONG GROUP CORPORATION",
+    "present": "Present",
+    "fresherDesc": "Participated in the development and maintenance of web and mobile applications, ensuring product performance and features. Learned and applied new technologies to improve the development process. Collaborated with other teams to ensure seamless integration between frontend and backend.",
+    "internDev": "Customer Success Engineer (Intern)",
+    "gcalls": "Gcalls Joint Stock Company",
+    "internDesc": "Learned and analyzed customer requirements, provided technical support and problem-solving. Assisted the development team in deploying and maintaining systems. Learned about software development processes and project management."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "If you have any questions or want to discuss a project, feel free to reach out to me. I'm always ready to help and collaborate.",
+    "nameLabel": "Your Name",
+    "emailLabel": "Your Email",
+    "messageLabel": "Your Message",
+    "sendMessage": "Send Message"
+  },
+  "footer": {
+    "text": "All rights reserved.",
+    "madeWith": "Made with"
+  }
+}
