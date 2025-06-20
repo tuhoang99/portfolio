@@ -73,7 +73,6 @@
     "sendMessage": "Gửi tin nhắn"
   },
   "footer": {
-    "text": "Tất cả quyền được bảo lưu.",
-    "madeWith": "Được tạo với"
+    "text": "Được thiết kế và phát triển bởi tôi."
   }
 }
