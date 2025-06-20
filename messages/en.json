@@ -10,7 +10,8 @@
     "title": "Hoang Anh Tu",
     "subtitle": "Developer with over 2 years of experience in web and mobile development.",
     "tagline": "Crafting digital experiences that matter",
-    "downloadCV": "Download CV",
+    "cvPreview": "CV Preview",
+    "open": "Open",
     "contactMe": "Contact Me",
     "viewWork": "View My Work"
   },
@@ -73,7 +74,6 @@
     "sendMessage": "Send Message"
   },
   "footer": {
-    "text": "All rights reserved.",
-    "madeWith": "Made with"
+    "text": "Designed & developed by me."
   }
 }

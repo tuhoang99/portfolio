@@ -9,6 +9,7 @@ import { images } from '@/assets';
 import { scrollToSection } from '@/utils';
 
 import { AnimatedText } from './animated-text';
+import { CVModal } from './cv-modal';
 import { Button } from './ui/button';
 import { LoadingSkeleton } from './ui/loading-skeleton';
 import { motion } from 'framer-motion';
@@ -59,12 +60,7 @@ export function HeroSection() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.5, delay: 0.5 }}
                         className='flex flex-wrap justify-center gap-4'>
-                        <Button
-                            size='lg'
-                            className='from-primary to-primary/80 hover:from-primary/90 hover:to-primary bg-gradient-to-r transition-all duration-300'>
-                            <Download className='mr-2 h-4 w-4' />
-                            {t('downloadCV')}
-                        </Button>
+                        <CVModal buttonText={t('cvPreview')} cvUrl='./pdf/cv.pdf' />
                         <Button
                             variant='outline'
                             size='lg'

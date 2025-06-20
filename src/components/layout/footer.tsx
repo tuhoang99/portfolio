@@ -4,7 +4,7 @@ import React from 'react';
 
 import Link from 'next/link';
 
-import { Code, Heart } from 'lucide-react';
+import { Code } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 
 export function Footer() {
@@ -24,10 +24,6 @@ export function Footer() {
 
                     <p className='text-muted-foreground'>
                         &copy; {currentYear} {h('title')}. {f('text')}
-                    </p>
-
-                    <p className='text-muted-foreground flex items-center text-sm'>
-                        {f('madeWith')} <Heart className='mx-1 h-4 w-4 text-red-500' /> & Next.js 15
                     </p>
                 </div>
             </div>
