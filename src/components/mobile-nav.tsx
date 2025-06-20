@@ -5,7 +5,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
 import { scrollToSection } from '@/utils';
 
 import { LanguageToggle } from './language-toggle';
@@ -44,9 +44,9 @@ export function MobileNav() {
                     <span className='sr-only'>{`Toggle menu`}</span>
                 </Button>
             </SheetTrigger>
-            <SheetContent side='right' className='p w-[300px] px-4 sm:w-[400px]'>
+            <SheetContent side='right' className='w-[300px] px-4 sm:w-[400px]'>
+                <SheetTitle />
                 <div className='mt-8 flex flex-col space-y-4'>
-                    <SheetTitle />
                     <SheetLink href='about' text={t('about')} />
                     <SheetLink href='skills' text={t('skills')} />
                     <SheetLink href='projects' text={t('projects')} />
