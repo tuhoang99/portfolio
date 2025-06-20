@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     openGraph: {
         type: 'website',
         locale: 'vi-VN',
-        url: 'https://hoanganhtu.dev',
+        url: 'https://portfolio-atuss.vercel.app',
         title: 'Portfolio | Hoàng Anh Tú',
         description: 'Welcome to my portfolio website showcasing my projects and skills.',
         siteName: 'Portfolio | Hoàng Anh Tú'
